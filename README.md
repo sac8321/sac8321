@@ -6,7 +6,7 @@ Thank´s for watch one moment my portfolio!
 <hr>
 <dd>-I´m a developer but rarely very passionate for all the data science world.</dd>
 <dd>-I've being workinkg with backend site too</dd>
-<dd>-I’m currently learning of different dev thinks</dd>
+<dd>-I’m currently learning of different dev things</dd>
 <hr>
 Technology & tools
 <ul>
