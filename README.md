@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I´m Jorge
+I´m Jorge or "George" , whatever you wanna call me 😎
 
 Thank´s for watch one moment my portfolio!
 <hr>
