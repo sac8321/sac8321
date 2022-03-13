@@ -5,7 +5,7 @@ I´m Jorge or "George" , whatever you wanna call me 😎
 Thank´s for watch one moment my portfolio!
 <hr>
 <dd>-I´m a developer but rarely very passionate for all the data science world.</dd>
-<dd>-I've being workinkg with backend site too</dd>
+<dd>-I've being working with backend site too</dd>
 <dd>-I’m currently learning of different dev things</dd>
 <hr>
 Technology & tools
@@ -15,6 +15,7 @@ Technology & tools
   <li>C#</li>
   <li>SQL</li>
   <li>Java</li>
+  <li>JS (Junior😁)</li>
    </ul>
 
 
